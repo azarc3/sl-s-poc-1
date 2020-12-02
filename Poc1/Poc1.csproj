@@ -15,10 +15,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="OpenWeatherAPI">
-      <HintPath>..\..\OpenWeathMapApi\OpenWeatherAPI\bin\Release\netstandard2.0\OpenWeatherAPI.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
